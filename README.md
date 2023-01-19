@@ -39,17 +39,15 @@ Testing Stats View,<br>
 wanna have a look?<br>
   -   Customizing stats card <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  <br>
+
+<br>
 wanna deeper look ?  <br>
--   Customizing repo card <br>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-  
-  
-  -   Customizing repo card <br>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mirkoshell&repo=piyaw&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
   -   Customizing repo card <br>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mirkoshell&repo=the-book-of-secret-knowledge&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true)
+
+
+  -   Customizing repo card <br>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mirkoshell&repo=the-book-of-secret-knowledge&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true)
