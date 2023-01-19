@@ -26,18 +26,18 @@ You can click the Preview link to take a look at your changes.
 </a> 
 <br>
 </p>
-****** <br> 
-## :sparkling_heart: Support the project
+****** <br> <br> 
+## :sparkling_heart: Support the project<br> 
 
 I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
+this takes time. You can use this service for free.<br> 
 
 However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
 
 -   Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 -   Starring and sharing the project :rocket:
 -   [![paypal.me/](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
-
+<br> 
 Thanks! :heart:
 
 * * *
@@ -47,20 +47,16 @@ Contributions are welcome! &lt;3
 Made with :heart: and some code.
 
 * * * * * * * * * * * * * * * * * * * * *
-<br>
+<br><br> <br> <br> 
 
 Testing Stats View,<br>
 
 wanna have a look?<br>
   -   Customizing stats card <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![MirkoShell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirkoshell&show_icons=true&theme=transparent)
 
 <br>
 wanna deeper look ?  <br>
-
-  -   Customizing repo card <br>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true)
 
 
   -   Customizing repo card <br>
