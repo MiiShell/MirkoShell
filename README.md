@@ -3,7 +3,16 @@
 - 🌱 I’m currently learning for my CCNA !
 - 📫 How to reach me ... > Mail me
 
-****** <br>  
+
+****** 
+
+<!---
+End Section 1 - Intro + 
+------------------------------------------  
+Start Section 2 - SkillCard
+--->  
+
+<br>  
 <p align="center" dir="auto">
 
 ![X's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirkoShell&show_icons=true&theme=tokyonight&hide_border=true)
@@ -13,14 +22,16 @@
 
 --->
 
+  
+  
+![r e a d m e](https://raw.githubusercontent.com/this-fifo/this-fifo/master/felix.gif)
 
 <a href="https://federlechner.com" rel="follow"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://camo.githubusercontent.com/33e196d6abd5cd5afaac5ed55ffc7bf0eb07863cee771c7c1123a1d7e1449c4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d476964656f6e576f6c6665266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" width="325" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirkoShell&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false" style="max-width: 100%;">
 </a> 
 <br>
 </p>
 
-<!---
-------------------------------------------
+<!---------------------------------------------
 
 ![MirkoShell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirkoshell&layout=compact&show_icons=true&theme=tokyonight;hide_border=true)
 
