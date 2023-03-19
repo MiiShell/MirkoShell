@@ -5,7 +5,7 @@
 
 
 ****** 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkoshell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkoshell&layout=compact)](https://github.com/mirkoshell/github-stats)
 
 <!---
 End Section 1 - Intro + 
